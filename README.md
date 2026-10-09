@@ -80,7 +80,7 @@ Open the local URL displayed in your terminal.
 
 ## 🌐 Live Demo
 
-**Streamlit App:** [Add your deployed dashboard URL here]
+**Streamlit App:** aircraft-rul-prediction ∙ main ∙ app.py
 
 ## 📈 Evaluation
 
